@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darcygx
 - 👀 I’m interested in tensor-based signal processing; MIMO; machine learning
-- 🌱 I’m currently pursuing the Ph.D. degree
+- 🌱 I’m currently pursuing the Ph.D. degree at Beijing Jiaotong University
 - 📫 How to reach me xiaogong@bjtu.edu.cn
 - Codes TSP2019-EBM_RPCA and TSP2020-LTDL have been given on my supervisor's (Prof. Wei Chen) git https://github.com/wc253
 
